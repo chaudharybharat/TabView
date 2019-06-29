@@ -1,4 +1,4 @@
-# TabView
+# TabView React-Native
 
 
 <h2>Using npm</h2>
